@@ -1,0 +1,19 @@
+html, body, #block {
+    height:100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background-color: white;
+ }
+
+#block td{
+    vertical-align: middle;
+    text-align: center;
+}
+
+#text{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 38px;
+}
